@@ -19,7 +19,7 @@
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/Grey-Hat-07/Leetcode_database.git
+git clone https://github.com/Grey-Hat-07/Querification.git
 ```
 - Navigate to project directory.
 ```terminal
